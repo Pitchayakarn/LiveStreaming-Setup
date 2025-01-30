@@ -68,3 +68,6 @@ We welcome contributions to improve this guide! Feel free to submit pull request
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## About MAS Thailand  
+[Visit MAS Thailand](https://www.mas.in.th) for professional **OB Switching**, **Live Streaming**, and **Multimedia Production** services in Bangkok and across Thailand.  
